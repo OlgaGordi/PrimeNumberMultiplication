@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumberMultiplication", "PrimeNumberMultiplication\PrimeNumberMultiplication.csproj", "{8598FA39-425E-4D7B-9823-043382AD210F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumbers", "PrimeNumbers\PrimeNumbers.csproj", "{F91074C6-445D-4157-9DE5-2D70DA5A2152}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumbersTest", "PrimeNumbersTest\PrimeNumbersTest.csproj", "{8FD3CC80-5B90-4B6C-8B46-71EE889EDF21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumberMultiplicationTest", "PrimeNumberMultiplicationTest\PrimeNumberMultiplicationTest.csproj", "{D7C8C872-CB9F-4CEA-A039-A53B814DBD94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8598FA39-425E-4D7B-9823-043382AD210F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8598FA39-425E-4D7B-9823-043382AD210F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8598FA39-425E-4D7B-9823-043382AD210F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8598FA39-425E-4D7B-9823-043382AD210F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F91074C6-445D-4157-9DE5-2D70DA5A2152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91074C6-445D-4157-9DE5-2D70DA5A2152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91074C6-445D-4157-9DE5-2D70DA5A2152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91074C6-445D-4157-9DE5-2D70DA5A2152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FD3CC80-5B90-4B6C-8B46-71EE889EDF21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD3CC80-5B90-4B6C-8B46-71EE889EDF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD3CC80-5B90-4B6C-8B46-71EE889EDF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD3CC80-5B90-4B6C-8B46-71EE889EDF21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7C8C872-CB9F-4CEA-A039-A53B814DBD94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C8C872-CB9F-4CEA-A039-A53B814DBD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C8C872-CB9F-4CEA-A039-A53B814DBD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C8C872-CB9F-4CEA-A039-A53B814DBD94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
